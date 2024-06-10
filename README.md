@@ -4,6 +4,11 @@
 A bad [fresh](https://fresh.deno.dev) Application to test some things out with
 the [stapil](https://github.com/graefchen/stapil) deno library.
 
+## Disclaimer
+
+> [!WARNING]
+> Be Aware that this project is NOT production ready and subject to change!
+
 ### Usage
 
 Make sure to install Deno: https://deno.land/manual/getting_started/installation
